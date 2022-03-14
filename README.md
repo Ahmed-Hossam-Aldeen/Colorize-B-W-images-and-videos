@@ -1,4 +1,6 @@
 # Colorize-Black and White-images-and-videos
+Automatic colorization using deep neural networks.
+
 This project is based richzhang's repo: https://github.com/richzhang/colorization which colorizes only images
 
 ## Samples
